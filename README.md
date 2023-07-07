@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yasmineahmed11
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning frontend web development
+- 🌱 I’m currently learning frontend web development, ui/ux
 
 <!---
 yasmineahmed11/yasmineahmed11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
